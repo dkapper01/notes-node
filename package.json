@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dkapper01/notes-node/issues"
   },
-  "homepage": "https://github.com/dkapper01/notes-node#readme"
+  "homepage": "https://github.com/dkapper01/notes-node#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
 }
