@@ -1,0 +1,19 @@
+{
+  "name": "notes-node",
+  "version": "1.0.0",
+  "description": "A note taking app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkapper01/notes-node.git"
+  },
+  "author": "Daniel Kapper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dkapper01/notes-node/issues"
+  },
+  "homepage": "https://github.com/dkapper01/notes-node#readme"
+}
